@@ -40,7 +40,7 @@ Una interfaz para gestionar empleados (Employees), desarrollada como parte del [
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/dafortch/employee-list-ui.git
+    git clone https://github.com/dfortch18/employee-list-ui.git
     ```
 2. Compila el proyecto utilizando Maven:
     ```bash
