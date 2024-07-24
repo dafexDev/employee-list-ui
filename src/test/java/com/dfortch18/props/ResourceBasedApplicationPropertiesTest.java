@@ -3,8 +3,6 @@ package com.dfortch18.props;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.dfortch18.props.ResourceBasedApplicationProperties;
-
 import java.io.IOException;
 
 import static org.junit.jupiter.api.Assertions.*;
