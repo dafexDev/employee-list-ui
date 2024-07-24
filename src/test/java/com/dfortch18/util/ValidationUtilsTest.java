@@ -2,8 +2,6 @@ package com.dfortch18.util;
 
 import org.junit.jupiter.api.Test;
 
-import com.dfortch18.util.ValidationUtils;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class ValidationUtilsTest {

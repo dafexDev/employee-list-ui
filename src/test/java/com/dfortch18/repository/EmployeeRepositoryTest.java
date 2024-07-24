@@ -5,7 +5,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import com.dfortch18.model.Employee;
-import com.dfortch18.repository.EmployeeRepository;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -3,8 +3,6 @@ package com.dfortch18.util;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 
-import com.dfortch18.util.DatabaseConnection;
-
 import java.sql.Connection;
 import java.sql.SQLException;
 
