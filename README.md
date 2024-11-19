@@ -37,7 +37,7 @@ An interface to manage employees, developed as part of the [Java SE SQL and Data
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/dfortch18/employee-list-ui.git
+    git clone https://github.com/dafexDev/employee-list-ui.git
     ```
 2. Navigate to the project directory:
     ```bash
